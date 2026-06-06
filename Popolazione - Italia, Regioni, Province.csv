@@ -1,0 +1,406 @@
+﻿FREQ,Frequenza,REF_AREA,Territorio,DATA_TYPE,Indicatore,SEX,Sesso,AGE,Età,MARITAL_STATUS,Stato civile,TIME_PERIOD,Osservazione,OBS_STATUS,'Stato dell"'osservazione'
+A,Annuale,IT,Italia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,28920635,e,Dato stimato
+A,Annuale,IT,Italia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,30022193,e,Dato stimato
+A,Annuale,IT,Italia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,58942828,e,Dato stimato
+A,Annuale,ITC,Nord-ovest,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,7848566,e,Dato stimato
+A,Annuale,ITC,Nord-ovest,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,8106676,e,Dato stimato
+A,Annuale,ITC,Nord-ovest,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,15955242,e,Dato stimato
+A,Annuale,ITC1,Piemonte,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2086022,e,Dato stimato
+A,Annuale,ITC1,Piemonte,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2168984,e,Dato stimato
+A,Annuale,ITC1,Piemonte,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,4255006,e,Dato stimato
+A,Annuale,ITC11,Torino,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,1075124,e,Dato stimato
+A,Annuale,ITC11,Torino,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,1129655,e,Dato stimato
+A,Annuale,ITC11,Torino,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,2204779,e,Dato stimato
+A,Annuale,ITC12,Vercelli,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,81625,e,Dato stimato
+A,Annuale,ITC12,Vercelli,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,84541,e,Dato stimato
+A,Annuale,ITC12,Vercelli,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,166166,e,Dato stimato
+A,Annuale,ITC15,Novara,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,179675,e,Dato stimato
+A,Annuale,ITC15,Novara,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,186255,e,Dato stimato
+A,Annuale,ITC15,Novara,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,365930,e,Dato stimato
+A,Annuale,ITC16,Cuneo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,290528,e,Dato stimato
+A,Annuale,ITC16,Cuneo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,291581,e,Dato stimato
+A,Annuale,ITC16,Cuneo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,582109,e,Dato stimato
+A,Annuale,ITC17,Asti,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,102142,e,Dato stimato
+A,Annuale,ITC17,Asti,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,104917,e,Dato stimato
+A,Annuale,ITC17,Asti,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,207059,e,Dato stimato
+A,Annuale,ITC18,Alessandria,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,200597,e,Dato stimato
+A,Annuale,ITC18,Alessandria,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,207466,e,Dato stimato
+A,Annuale,ITC18,Alessandria,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,408063,e,Dato stimato
+A,Annuale,ITC13,Biella,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,81791,e,Dato stimato
+A,Annuale,ITC13,Biella,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,86432,e,Dato stimato
+A,Annuale,ITC13,Biella,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,168223,e,Dato stimato
+A,Annuale,ITC14,Verbano-Cusio-Ossola,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,74540,e,Dato stimato
+A,Annuale,ITC14,Verbano-Cusio-Ossola,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,78137,e,Dato stimato
+A,Annuale,ITC14,Verbano-Cusio-Ossola,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,152677,e,Dato stimato
+A,Annuale,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,60336,e,Dato stimato
+A,Annuale,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,62218,e,Dato stimato
+A,Annuale,ITC2,'Valle d"'Aosta / Vallée d"'Aoste',JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,122554,e,Dato stimato
+A,Annuale,ITC20,'Valle d"'Aosta / Vallée d"'Aoste',JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,60336,e,Dato stimato
+A,Annuale,ITC20,'Valle d"'Aosta / Vallée d"'Aoste',JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,62218,e,Dato stimato
+A,Annuale,ITC20,'Valle d"'Aosta / Vallée d"'Aoste',JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,122554,e,Dato stimato
+A,Annuale,ITC3,Liguria,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,734281,e,Dato stimato
+A,Annuale,ITC3,Liguria,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,777707,e,Dato stimato
+A,Annuale,ITC3,Liguria,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1511988,e,Dato stimato
+A,Annuale,ITC31,Imperia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,102501,e,Dato stimato
+A,Annuale,ITC31,Imperia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,107347,e,Dato stimato
+A,Annuale,ITC31,Imperia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,209848,e,Dato stimato
+A,Annuale,ITC32,Savona,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,129648,e,Dato stimato
+A,Annuale,ITC32,Savona,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,137262,e,Dato stimato
+A,Annuale,ITC32,Savona,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,266910,e,Dato stimato
+A,Annuale,ITC33,Genova,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,396840,e,Dato stimato
+A,Annuale,ITC33,Genova,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,423851,e,Dato stimato
+A,Annuale,ITC33,Genova,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,820691,e,Dato stimato
+A,Annuale,ITC34,La Spezia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,105292,e,Dato stimato
+A,Annuale,ITC34,La Spezia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,109247,e,Dato stimato
+A,Annuale,ITC34,La Spezia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,214539,e,Dato stimato
+A,Annuale,ITC4,Lombardia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,4967927,e,Dato stimato
+A,Annuale,ITC4,Lombardia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,5097767,e,Dato stimato
+A,Annuale,ITC4,Lombardia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,10065694,e,Dato stimato
+A,Annuale,ITC41,Varese,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,433210,e,Dato stimato
+A,Annuale,ITC41,Varese,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,451591,e,Dato stimato
+A,Annuale,ITC41,Varese,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,884801,e,Dato stimato
+A,Annuale,ITC42,Como,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,295515,e,Dato stimato
+A,Annuale,ITC42,Como,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,303047,e,Dato stimato
+A,Annuale,ITC42,Como,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,598562,e,Dato stimato
+A,Annuale,ITC44,Sondrio,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,88878,e,Dato stimato
+A,Annuale,ITC44,Sondrio,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,90390,e,Dato stimato
+A,Annuale,ITC44,Sondrio,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,179268,e,Dato stimato
+A,Annuale,ITC45,Milano,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,1591707,e,Dato stimato
+A,Annuale,ITC45,Milano,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,1661404,e,Dato stimato
+A,Annuale,ITC45,Milano,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,3253111,e,Dato stimato
+A,Annuale,ITC46,Bergamo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,558868,e,Dato stimato
+A,Annuale,ITC46,Bergamo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,560365,e,Dato stimato
+A,Annuale,ITC46,Bergamo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1119233,e,Dato stimato
+A,Annuale,ITC47,Brescia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,633530,e,Dato stimato
+A,Annuale,ITC47,Brescia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,638229,e,Dato stimato
+A,Annuale,ITC47,Brescia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1271759,e,Dato stimato
+A,Annuale,ITC48,Pavia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,269759,e,Dato stimato
+A,Annuale,ITC48,Pavia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,276264,e,Dato stimato
+A,Annuale,ITC48,Pavia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,546023,e,Dato stimato
+A,Annuale,ITC4A,Cremona,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,177050,e,Dato stimato
+A,Annuale,ITC4A,Cremona,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,178084,e,Dato stimato
+A,Annuale,ITC4A,Cremona,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,355134,e,Dato stimato
+A,Annuale,ITC4B,Mantova,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,203504,e,Dato stimato
+A,Annuale,ITC4B,Mantova,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,205211,e,Dato stimato
+A,Annuale,ITC4B,Mantova,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,408715,e,Dato stimato
+A,Annuale,ITC43,Lecco,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,165750,e,Dato stimato
+A,Annuale,ITC43,Lecco,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,168461,e,Dato stimato
+A,Annuale,ITC43,Lecco,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,334211,e,Dato stimato
+A,Annuale,ITC49,Lodi,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,115724,e,Dato stimato
+A,Annuale,ITC49,Lodi,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,115757,e,Dato stimato
+A,Annuale,ITC49,Lodi,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,231481,e,Dato stimato
+A,Annuale,IT108,Monza e della Brianza,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,434432,e,Dato stimato
+A,Annuale,IT108,Monza e della Brianza,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,448964,e,Dato stimato
+A,Annuale,IT108,Monza e della Brianza,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,883396,e,Dato stimato
+A,Annuale,ITD,Nord-est,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,5730539,e,Dato stimato
+A,Annuale,ITD,Nord-est,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,5888244,e,Dato stimato
+A,Annuale,ITD,Nord-est,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,11618783,e,Dato stimato
+A,Annuale,ITDA,Trentino Alto Adige / Südtirol,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,541300,e,Dato stimato
+A,Annuale,ITDA,Trentino Alto Adige / Südtirol,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,549518,e,Dato stimato
+A,Annuale,ITDA,Trentino Alto Adige / Südtirol,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1090818,e,Dato stimato
+A,Annuale,ITD1,Provincia Autonoma Bolzano / Bozen,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,269535,e,Dato stimato
+A,Annuale,ITD1,Provincia Autonoma Bolzano / Bozen,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,272599,e,Dato stimato
+A,Annuale,ITD1,Provincia Autonoma Bolzano / Bozen,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,542134,e,Dato stimato
+A,Annuale,ITD10,Bolzano / Bozen,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,269535,e,Dato stimato
+A,Annuale,ITD10,Bolzano / Bozen,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,272599,e,Dato stimato
+A,Annuale,ITD10,Bolzano / Bozen,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,542134,e,Dato stimato
+A,Annuale,ITD2,Provincia Autonoma Trento,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,271765,e,Dato stimato
+A,Annuale,ITD2,Provincia Autonoma Trento,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,276919,e,Dato stimato
+A,Annuale,ITD2,Provincia Autonoma Trento,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,548684,e,Dato stimato
+A,Annuale,ITD20,Trento,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,271765,e,Dato stimato
+A,Annuale,ITD20,Trento,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,276919,e,Dato stimato
+A,Annuale,ITD20,Trento,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,548684,e,Dato stimato
+A,Annuale,ITD3,Veneto,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2399644,e,Dato stimato
+A,Annuale,ITD3,Veneto,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2457816,e,Dato stimato
+A,Annuale,ITD3,Veneto,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,4857460,e,Dato stimato
+A,Annuale,ITD31,Verona,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,460297,e,Dato stimato
+A,Annuale,ITD31,Verona,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,470545,e,Dato stimato
+A,Annuale,ITD31,Verona,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,930842,e,Dato stimato
+A,Annuale,ITD32,Vicenza,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,425216,e,Dato stimato
+A,Annuale,ITD32,Vicenza,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,429996,e,Dato stimato
+A,Annuale,ITD32,Vicenza,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,855212,e,Dato stimato
+A,Annuale,ITD33,Belluno,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,96970,e,Dato stimato
+A,Annuale,ITD33,Belluno,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,100295,e,Dato stimato
+A,Annuale,ITD33,Belluno,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,197265,e,Dato stimato
+A,Annuale,ITD34,Treviso,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,435364,e,Dato stimato
+A,Annuale,ITD34,Treviso,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,442977,e,Dato stimato
+A,Annuale,ITD34,Treviso,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,878341,e,Dato stimato
+A,Annuale,ITD35,Venezia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,408724,e,Dato stimato
+A,Annuale,ITD35,Venezia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,425353,e,Dato stimato
+A,Annuale,ITD35,Venezia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,834077,e,Dato stimato
+A,Annuale,ITD36,Padova,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,460654,e,Dato stimato
+A,Annuale,ITD36,Padova,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,473886,e,Dato stimato
+A,Annuale,ITD36,Padova,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,934540,e,Dato stimato
+A,Annuale,ITD37,Rovigo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,112419,e,Dato stimato
+A,Annuale,ITD37,Rovigo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,114764,e,Dato stimato
+A,Annuale,ITD37,Rovigo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,227183,e,Dato stimato
+A,Annuale,ITD4,Friuli-Venezia Giulia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,585551,e,Dato stimato
+A,Annuale,ITD4,Friuli-Venezia Giulia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,607945,e,Dato stimato
+A,Annuale,ITD4,Friuli-Venezia Giulia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1193496,e,Dato stimato
+A,Annuale,ITD42,Udine,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,252020,e,Dato stimato
+A,Annuale,ITD42,Udine,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,263805,e,Dato stimato
+A,Annuale,ITD42,Udine,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,515825,e,Dato stimato
+A,Annuale,ITD43,Gorizia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,69162,e,Dato stimato
+A,Annuale,ITD43,Gorizia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,69555,e,Dato stimato
+A,Annuale,ITD43,Gorizia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,138717,e,Dato stimato
+A,Annuale,ITD44,Trieste,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,110249,e,Dato stimato
+A,Annuale,ITD44,Trieste,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,117591,e,Dato stimato
+A,Annuale,ITD44,Trieste,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,227840,e,Dato stimato
+A,Annuale,ITD41,Pordenone,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,154120,e,Dato stimato
+A,Annuale,ITD41,Pordenone,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,156994,e,Dato stimato
+A,Annuale,ITD41,Pordenone,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,311114,e,Dato stimato
+A,Annuale,ITD5,Emilia-Romagna,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2204044,e,Dato stimato
+A,Annuale,ITD5,Emilia-Romagna,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2272965,e,Dato stimato
+A,Annuale,ITD5,Emilia-Romagna,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,4477009,e,Dato stimato
+A,Annuale,ITD51,Piacenza,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,142813,e,Dato stimato
+A,Annuale,ITD51,Piacenza,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,144932,e,Dato stimato
+A,Annuale,ITD51,Piacenza,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,287745,e,Dato stimato
+A,Annuale,ITD52,Parma,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,226468,e,Dato stimato
+A,Annuale,ITD52,Parma,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,231041,e,Dato stimato
+A,Annuale,ITD52,Parma,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,457509,e,Dato stimato
+A,Annuale,ITD53,'Reggio nell"'Emilia',JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,264743,e,Dato stimato
+A,Annuale,ITD53,'Reggio nell"'Emilia',JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,267414,e,Dato stimato
+A,Annuale,ITD53,'Reggio nell"'Emilia',JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,532157,e,Dato stimato
+A,Annuale,ITD54,Modena,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,353080,e,Dato stimato
+A,Annuale,ITD54,Modena,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,358422,e,Dato stimato
+A,Annuale,ITD54,Modena,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,711502,e,Dato stimato
+A,Annuale,ITD55,Bologna,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,499334,e,Dato stimato
+A,Annuale,ITD55,Bologna,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,524956,e,Dato stimato
+A,Annuale,ITD55,Bologna,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1024290,e,Dato stimato
+A,Annuale,ITD56,Ferrara,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,166194,e,Dato stimato
+A,Annuale,ITD56,Ferrara,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,174288,e,Dato stimato
+A,Annuale,ITD56,Ferrara,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,340482,e,Dato stimato
+A,Annuale,ITD57,Ravenna,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,191179,e,Dato stimato
+A,Annuale,ITD57,Ravenna,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,196564,e,Dato stimato
+A,Annuale,ITD57,Ravenna,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,387743,e,Dato stimato
+A,Annuale,ITD58,Forlì-Cesena,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,194176,e,Dato stimato
+A,Annuale,ITD58,Forlì-Cesena,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,200161,e,Dato stimato
+A,Annuale,ITD58,Forlì-Cesena,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,394337,e,Dato stimato
+A,Annuale,ITD59,Rimini,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,166057,e,Dato stimato
+A,Annuale,ITD59,Rimini,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,175187,e,Dato stimato
+A,Annuale,ITD59,Rimini,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,341244,e,Dato stimato
+A,Annuale,ITE,Centro,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,5701785,e,Dato stimato
+A,Annuale,ITE,Centro,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,5997340,e,Dato stimato
+A,Annuale,ITE,Centro,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,11699125,e,Dato stimato
+A,Annuale,ITE1,Toscana,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,1786632,e,Dato stimato
+A,Annuale,ITE1,Toscana,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,1872590,e,Dato stimato
+A,Annuale,ITE1,Toscana,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,3659222,e,Dato stimato
+A,Annuale,ITE11,Massa-Carrara,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,91309,e,Dato stimato
+A,Annuale,ITE11,Massa-Carrara,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,95328,e,Dato stimato
+A,Annuale,ITE11,Massa-Carrara,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,186637,e,Dato stimato
+A,Annuale,ITE12,Lucca,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,185240,e,Dato stimato
+A,Annuale,ITE12,Lucca,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,194717,e,Dato stimato
+A,Annuale,ITE12,Lucca,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,379957,e,Dato stimato
+A,Annuale,ITE13,Pistoia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,141706,e,Dato stimato
+A,Annuale,ITE13,Pistoia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,149161,e,Dato stimato
+A,Annuale,ITE13,Pistoia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,290867,e,Dato stimato
+A,Annuale,ITE14,Firenze,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,478841,e,Dato stimato
+A,Annuale,ITE14,Firenze,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,509653,e,Dato stimato
+A,Annuale,ITE14,Firenze,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,988494,e,Dato stimato
+A,Annuale,ITE16,Livorno,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,158041,e,Dato stimato
+A,Annuale,ITE16,Livorno,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,166852,e,Dato stimato
+A,Annuale,ITE16,Livorno,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,324893,e,Dato stimato
+A,Annuale,ITE17,Pisa,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,206173,e,Dato stimato
+A,Annuale,ITE17,Pisa,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,213415,e,Dato stimato
+A,Annuale,ITE17,Pisa,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,419588,e,Dato stimato
+A,Annuale,ITE18,Arezzo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,164225,e,Dato stimato
+A,Annuale,ITE18,Arezzo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,169044,e,Dato stimato
+A,Annuale,ITE18,Arezzo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,333269,e,Dato stimato
+A,Annuale,ITE19,Siena,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,126807,e,Dato stimato
+A,Annuale,ITE19,Siena,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,132695,e,Dato stimato
+A,Annuale,ITE19,Siena,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,259502,e,Dato stimato
+A,Annuale,ITE1A,Grosseto,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,105157,e,Dato stimato
+A,Annuale,ITE1A,Grosseto,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,109706,e,Dato stimato
+A,Annuale,ITE1A,Grosseto,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,214863,e,Dato stimato
+A,Annuale,ITE15,Prato,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,129133,e,Dato stimato
+A,Annuale,ITE15,Prato,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,132019,e,Dato stimato
+A,Annuale,ITE15,Prato,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,261152,e,Dato stimato
+A,Annuale,ITE2,Umbria,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,413798,e,Dato stimato
+A,Annuale,ITE2,Umbria,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,436829,e,Dato stimato
+A,Annuale,ITE2,Umbria,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,850627,e,Dato stimato
+A,Annuale,ITE21,Perugia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,309655,e,Dato stimato
+A,Annuale,ITE21,Perugia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,326333,e,Dato stimato
+A,Annuale,ITE21,Perugia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,635988,e,Dato stimato
+A,Annuale,ITE22,Terni,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,104143,e,Dato stimato
+A,Annuale,ITE22,Terni,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,110496,e,Dato stimato
+A,Annuale,ITE22,Terni,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,214639,e,Dato stimato
+A,Annuale,ITE3,Marche,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,727518,e,Dato stimato
+A,Annuale,ITE3,Marche,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,752314,e,Dato stimato
+A,Annuale,ITE3,Marche,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1479832,e,Dato stimato
+A,Annuale,ITE31,Pesaro e Urbino,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,172604,e,Dato stimato
+A,Annuale,ITE31,Pesaro e Urbino,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,176952,e,Dato stimato
+A,Annuale,ITE31,Pesaro e Urbino,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,349556,e,Dato stimato
+A,Annuale,ITE32,Ancona,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,226939,e,Dato stimato
+A,Annuale,ITE32,Ancona,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,234674,e,Dato stimato
+A,Annuale,ITE32,Ancona,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,461613,e,Dato stimato
+A,Annuale,ITE33,Macerata,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,148042,e,Dato stimato
+A,Annuale,ITE33,Macerata,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,153647,e,Dato stimato
+A,Annuale,ITE33,Macerata,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,301689,e,Dato stimato
+A,Annuale,ITE34,Ascoli Piceno,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,97861,e,Dato stimato
+A,Annuale,ITE34,Ascoli Piceno,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,102341,e,Dato stimato
+A,Annuale,ITE34,Ascoli Piceno,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,200202,e,Dato stimato
+A,Annuale,IT109,Fermo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,82072,e,Dato stimato
+A,Annuale,IT109,Fermo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,84700,e,Dato stimato
+A,Annuale,IT109,Fermo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,166772,e,Dato stimato
+A,Annuale,ITE4,Lazio,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2773837,e,Dato stimato
+A,Annuale,ITE4,Lazio,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2935607,e,Dato stimato
+A,Annuale,ITE4,Lazio,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,5709444,e,Dato stimato
+A,Annuale,ITE41,Viterbo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,152230,e,Dato stimato
+A,Annuale,ITE41,Viterbo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,155582,e,Dato stimato
+A,Annuale,ITE41,Viterbo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,307812,e,Dato stimato
+A,Annuale,ITE42,Rieti,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,74840,e,Dato stimato
+A,Annuale,ITE42,Rieti,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,74495,e,Dato stimato
+A,Annuale,ITE42,Rieti,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,149335,e,Dato stimato
+A,Annuale,ITE43,Roma,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2037494,e,Dato stimato
+A,Annuale,ITE43,Roma,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2187407,e,Dato stimato
+A,Annuale,ITE43,Roma,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,4224901,e,Dato stimato
+A,Annuale,ITE44,Latina,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,282346,e,Dato stimato
+A,Annuale,ITE44,Latina,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,284784,e,Dato stimato
+A,Annuale,ITE44,Latina,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,567130,e,Dato stimato
+A,Annuale,ITE45,Frosinone,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,226927,e,Dato stimato
+A,Annuale,ITE45,Frosinone,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,233339,e,Dato stimato
+A,Annuale,ITE45,Frosinone,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,460266,e,Dato stimato
+A,Annuale,ITF,Sud,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,6540610,e,Dato stimato
+A,Annuale,ITF,Sud,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,6799384,e,Dato stimato
+A,Annuale,ITF,Sud,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,13339994,e,Dato stimato
+A,Annuale,ITF1,Abruzzo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,623200,e,Dato stimato
+A,Annuale,ITF1,Abruzzo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,644022,e,Dato stimato
+A,Annuale,ITF1,Abruzzo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1267222,e,Dato stimato
+A,Annuale,ITF11,'L"'Aquila',JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,143276,e,Dato stimato
+A,Annuale,ITF11,'L"'Aquila',JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,143489,e,Dato stimato
+A,Annuale,ITF11,'L"'Aquila',JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,286765,e,Dato stimato
+A,Annuale,ITF12,Teramo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,147711,e,Dato stimato
+A,Annuale,ITF12,Teramo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,152124,e,Dato stimato
+A,Annuale,ITF12,Teramo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,299835,e,Dato stimato
+A,Annuale,ITF13,Pescara,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,151128,e,Dato stimato
+A,Annuale,ITF13,Pescara,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,160435,e,Dato stimato
+A,Annuale,ITF13,Pescara,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,311563,e,Dato stimato
+A,Annuale,ITF14,Chieti,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,181085,e,Dato stimato
+A,Annuale,ITF14,Chieti,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,187974,e,Dato stimato
+A,Annuale,ITF14,Chieti,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,369059,e,Dato stimato
+A,Annuale,ITF2,Molise,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,142230,e,Dato stimato
+A,Annuale,ITF2,Molise,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,143710,e,Dato stimato
+A,Annuale,ITF2,Molise,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,285940,e,Dato stimato
+A,Annuale,ITF22,Campobasso,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,103012,e,Dato stimato
+A,Annuale,ITF22,Campobasso,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,104711,e,Dato stimato
+A,Annuale,ITF22,Campobasso,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,207723,e,Dato stimato
+A,Annuale,ITF21,Isernia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,39218,e,Dato stimato
+A,Annuale,ITF21,Isernia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,38999,e,Dato stimato
+A,Annuale,ITF21,Isernia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,78217,e,Dato stimato
+A,Annuale,ITF3,Campania,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2725438,e,Dato stimato
+A,Annuale,ITF3,Campania,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2843265,e,Dato stimato
+A,Annuale,ITF3,Campania,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,5568703,e,Dato stimato
+A,Annuale,ITF31,Caserta,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,447549,e,Dato stimato
+A,Annuale,ITF31,Caserta,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,461944,e,Dato stimato
+A,Annuale,ITF31,Caserta,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,909493,e,Dato stimato
+A,Annuale,ITF32,Benevento,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,127089,e,Dato stimato
+A,Annuale,ITF32,Benevento,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,130879,e,Dato stimato
+A,Annuale,ITF32,Benevento,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,257968,e,Dato stimato
+A,Annuale,ITF33,Napoli,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,1438154,e,Dato stimato
+A,Annuale,ITF33,Napoli,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,1516693,e,Dato stimato
+A,Annuale,ITF33,Napoli,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,2954847,e,Dato stimato
+A,Annuale,ITF34,Avellino,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,194102,e,Dato stimato
+A,Annuale,ITF34,Avellino,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,198991,e,Dato stimato
+A,Annuale,ITF34,Avellino,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,393093,e,Dato stimato
+A,Annuale,ITF35,Salerno,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,518544,e,Dato stimato
+A,Annuale,ITF35,Salerno,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,534758,e,Dato stimato
+A,Annuale,ITF35,Salerno,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1053302,e,Dato stimato
+A,Annuale,ITF4,Puglia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,1890243,e,Dato stimato
+A,Annuale,ITF4,Puglia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,1975034,e,Dato stimato
+A,Annuale,ITF4,Puglia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,3865277,e,Dato stimato
+A,Annuale,ITF41,Foggia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,292006,e,Dato stimato
+A,Annuale,ITF41,Foggia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,295779,e,Dato stimato
+A,Annuale,ITF41,Foggia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,587785,e,Dato stimato
+A,Annuale,ITF42,Bari,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,595445,e,Dato stimato
+A,Annuale,ITF42,Bari,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,622628,e,Dato stimato
+A,Annuale,ITF42,Bari,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1218073,e,Dato stimato
+A,Annuale,ITF43,Taranto,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,267252,e,Dato stimato
+A,Annuale,ITF43,Taranto,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,280676,e,Dato stimato
+A,Annuale,ITF43,Taranto,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,547928,e,Dato stimato
+A,Annuale,ITF44,Brindisi,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,181488,e,Dato stimato
+A,Annuale,ITF44,Brindisi,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,192143,e,Dato stimato
+A,Annuale,ITF44,Brindisi,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,373631,e,Dato stimato
+A,Annuale,ITF45,Lecce,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,368119,e,Dato stimato
+A,Annuale,ITF45,Lecce,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,393808,e,Dato stimato
+A,Annuale,ITF45,Lecce,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,761927,e,Dato stimato
+A,Annuale,IT110,Barletta-Andria-Trani,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,185933,e,Dato stimato
+A,Annuale,IT110,Barletta-Andria-Trani,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,190000,e,Dato stimato
+A,Annuale,IT110,Barletta-Andria-Trani,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,375933,e,Dato stimato
+A,Annuale,ITF5,Basilicata,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,260624,e,Dato stimato
+A,Annuale,ITF5,Basilicata,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,264657,e,Dato stimato
+A,Annuale,ITF5,Basilicata,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,525281,e,Dato stimato
+A,Annuale,ITF51,Potenza,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,167228,e,Dato stimato
+A,Annuale,ITF51,Potenza,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,170299,e,Dato stimato
+A,Annuale,ITF51,Potenza,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,337527,e,Dato stimato
+A,Annuale,ITF52,Matera,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,93396,e,Dato stimato
+A,Annuale,ITF52,Matera,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,94358,e,Dato stimato
+A,Annuale,ITF52,Matera,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,187754,e,Dato stimato
+A,Annuale,ITF6,Calabria,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,898875,e,Dato stimato
+A,Annuale,ITF6,Calabria,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,928696,e,Dato stimato
+A,Annuale,ITF6,Calabria,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1827571,e,Dato stimato
+A,Annuale,ITF61,Cosenza,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,328510,e,Dato stimato
+A,Annuale,ITF61,Cosenza,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,338624,e,Dato stimato
+A,Annuale,ITF61,Cosenza,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,667134,e,Dato stimato
+A,Annuale,ITF63,Catanzaro,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,166031,e,Dato stimato
+A,Annuale,ITF63,Catanzaro,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,172129,e,Dato stimato
+A,Annuale,ITF63,Catanzaro,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,338160,e,Dato stimato
+A,Annuale,ITF65,Reggio di Calabria,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,249361,e,Dato stimato
+A,Annuale,ITF65,Reggio di Calabria,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,261229,e,Dato stimato
+A,Annuale,ITF65,Reggio di Calabria,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,510590,e,Dato stimato
+A,Annuale,ITF62,Crotone,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,80550,e,Dato stimato
+A,Annuale,ITF62,Crotone,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,81215,e,Dato stimato
+A,Annuale,ITF62,Crotone,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,161765,e,Dato stimato
+A,Annuale,ITF64,Vibo Valentia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,74423,e,Dato stimato
+A,Annuale,ITF64,Vibo Valentia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,75499,e,Dato stimato
+A,Annuale,ITF64,Vibo Valentia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,149922,e,Dato stimato
+A,Annuale,ITG,Isole,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,3099135,e,Dato stimato
+A,Annuale,ITG,Isole,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,3230549,e,Dato stimato
+A,Annuale,ITG,Isole,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,6329684,e,Dato stimato
+A,Annuale,ITG1,Sicilia,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,2334463,e,Dato stimato
+A,Annuale,ITG1,Sicilia,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,2440731,e,Dato stimato
+A,Annuale,ITG1,Sicilia,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,4775194,e,Dato stimato
+A,Annuale,ITG11,Trapani,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,203337,e,Dato stimato
+A,Annuale,ITG11,Trapani,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,207265,e,Dato stimato
+A,Annuale,ITG11,Trapani,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,410602,e,Dato stimato
+A,Annuale,ITG12,Palermo,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,579201,e,Dato stimato
+A,Annuale,ITG12,Palermo,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,616106,e,Dato stimato
+A,Annuale,ITG12,Palermo,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1195307,e,Dato stimato
+A,Annuale,ITG13,Messina,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,288288,e,Dato stimato
+A,Annuale,ITG13,Messina,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,305786,e,Dato stimato
+A,Annuale,ITG13,Messina,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,594074,e,Dato stimato
+A,Annuale,ITG14,Agrigento,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,199259,e,Dato stimato
+A,Annuale,ITG14,Agrigento,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,207782,e,Dato stimato
+A,Annuale,ITG14,Agrigento,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,407041,e,Dato stimato
+A,Annuale,ITG15,Caltanissetta,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,118120,e,Dato stimato
+A,Annuale,ITG15,Caltanissetta,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,125381,e,Dato stimato
+A,Annuale,ITG15,Caltanissetta,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,243501,e,Dato stimato
+A,Annuale,ITG16,Enna,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,73774,e,Dato stimato
+A,Annuale,ITG16,Enna,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,77751,e,Dato stimato
+A,Annuale,ITG16,Enna,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,151525,e,Dato stimato
+A,Annuale,ITG17,Catania,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,520204,e,Dato stimato
+A,Annuale,ITG17,Catania,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,547346,e,Dato stimato
+A,Annuale,ITG17,Catania,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1067550,e,Dato stimato
+A,Annuale,ITG18,Ragusa,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,163041,e,Dato stimato
+A,Annuale,ITG18,Ragusa,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,160103,e,Dato stimato
+A,Annuale,ITG18,Ragusa,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,323144,e,Dato stimato
+A,Annuale,ITG19,Siracusa,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,189239,e,Dato stimato
+A,Annuale,ITG19,Siracusa,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,193211,e,Dato stimato
+A,Annuale,ITG19,Siracusa,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,382450,e,Dato stimato
+A,Annuale,ITG2,Sardegna,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,764672,e,Dato stimato
+A,Annuale,ITG2,Sardegna,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,789818,e,Dato stimato
+A,Annuale,ITG2,Sardegna,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,1554490,e,Dato stimato
+A,Annuale,ITG25,Sassari,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,232327,e,Dato stimato
+A,Annuale,ITG25,Sassari,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,238261,e,Dato stimato
+A,Annuale,ITG25,Sassari,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,470588,e,Dato stimato
+A,Annuale,ITG26,Nuoro,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,95954,e,Dato stimato
+A,Annuale,ITG26,Nuoro,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,98127,e,Dato stimato
+A,Annuale,ITG26,Nuoro,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,194081,e,Dato stimato
+A,Annuale,ITG27,Cagliari,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,201103,e,Dato stimato
+A,Annuale,ITG27,Cagliari,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,214763,e,Dato stimato
+A,Annuale,ITG27,Cagliari,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,415866,e,Dato stimato
+A,Annuale,ITG28,Oristano,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,72493,e,Dato stimato
+A,Annuale,ITG28,Oristano,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,74292,e,Dato stimato
+A,Annuale,ITG28,Oristano,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,146785,e,Dato stimato
+A,Annuale,IT111,Sud Sardegna,JAN,Popolazione al 1º gennaio,1,Maschi,TOTAL,Totale,99,Totale,2026,162795,e,Dato stimato
+A,Annuale,IT111,Sud Sardegna,JAN,Popolazione al 1º gennaio,2,Femmine,TOTAL,Totale,99,Totale,2026,164375,e,Dato stimato
+A,Annuale,IT111,Sud Sardegna,JAN,Popolazione al 1º gennaio,9,Totale,TOTAL,Totale,99,Totale,2026,327170,e,Dato stimato
